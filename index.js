@@ -5,3 +5,12 @@ var message = "Hello World this is the first message" ;
 // 8706e36 (HEAD -> main, origin/main) first commit 
 
 var message = "Adding new change and check the new commit" ;
+
+
+// b06cc84 (HEAD -> main, origin/main) second commit
+
+function add(a, b) {
+    return a + b;
+}
+
+console.log(add(1, 2));
