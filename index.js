@@ -37,3 +37,7 @@ console.log(add(1, 2));
 // Lets add the new commit now 
 
 // i can see on git merge b1 , all the the commits history remains intact
+
+
+
+// lets add one more commit here , so that it become ahead of one commit from b2
