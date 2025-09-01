@@ -23,3 +23,7 @@ var msg = "added new branch and let see the git graph now on commiting this "
 // Date:   Mon Sep 1 23:27:46 2025 +0530
 
 // lets add one more commit here
+
+// Npw we want to swithc to main branch and want these changes in main branch
+// for this i need to merget these changes in the main branch
+// now point is i have to check , differennts way to merge
