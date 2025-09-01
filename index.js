@@ -19,3 +19,7 @@ console.log(add(1, 2));
 
 // using git diff we ccan see the current and old changes in the file if we got a lot of changes
 // let do 4 th commit
+
+
+// git show <commit-hash> to see the changes in the commit
+// for examople git show c2b8ae8 ,, will show me the changes in this commit , which is the third commit
