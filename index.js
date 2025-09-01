@@ -35,3 +35,5 @@ console.log(add(1, 2));
         // b06cc84 second commit
 
 // Lets add the new commit now 
+
+// i can see on git merge b1 , all the the commits history remains intact
