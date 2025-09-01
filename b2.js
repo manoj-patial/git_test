@@ -2,3 +2,5 @@
 // we will add few changes in main branch as well 
 // so taht main branch get more commits and head there will move to some other commmit 
 // then we wil see , how on merging how graph will look like
+
+// lets add new commit
